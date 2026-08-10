@@ -1,0 +1,10 @@
+{
+  "description": "Helps businesses automate repetitive tasks and follow-ups to save time and reduce manual work through simple, reliable automation solutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
