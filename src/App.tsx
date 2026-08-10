@@ -1201,12 +1201,8 @@ function Footer() {
                 </a>
               </div>
               <div>
-                <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.72rem', color: DIM, display: 'block', marginBottom: '0.2rem' }}>Mobile</span>
-                <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.87rem', color: BODY }}>[placeholder]</span>
-              </div>
-              <div>
                 <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.72rem', color: DIM, display: 'block', marginBottom: '0.2rem' }}>Based in</span>
-                <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.87rem', color: BODY }}>[placeholder]</span>
+                <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.87rem', color: BODY }}>United Kingdom</span>
               </div>
             </div>
           </div>
